@@ -1,0 +1,26 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#container2 {
+  background-color: rgb(238, 245, 220);
+  border-radius: 20px;
+  width: 350px;
+  height: 250px;
+  margin: 20px;
+  padding: 20px;
+}
+#answers {
+  display: none;
+  color: brown;
+  font-weight: 900;
+  font-size: 20px;
+}
+span {
+  font-weight: 900;
+  font-size: 20px;
+}
+#btn {
+  margin-top: 10px;
+}
